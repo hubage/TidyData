@@ -1,6 +1,5 @@
 Feature Selection 
 =================
-
 The following columns with "mean" or std" in them were kept:
 
 tBodyAcc-XYZ
